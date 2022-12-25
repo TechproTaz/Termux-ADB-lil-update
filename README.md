@@ -1,6 +1,6 @@
 ### Termux-ADB
 Install ADB &amp; FastBoot Tools in Termux!<br/>
-For devices with ARM or ARM64 processors only!
+For devices with ARM or ARM64 processors only!<br/>
 (use the <a href="https://github.com/MasterDevX/Termux-ADB">original</a> one. This one is for my personal test perpose)
 ### How to install
 - <b>Silent installation:</b></br>
